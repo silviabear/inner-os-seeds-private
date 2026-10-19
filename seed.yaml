@@ -1,0 +1,13 @@
+id: seed-2026-10-17-life-story
+date: 2026-10-17
+maker: curator
+medium: [text]
+privacy: private
+location: seeds-private
+caption: null
+felt_sense: null
+consent: null
+raw:
+  - origin-cubes.md       # the first image of the arc (ball among falling cubes), from the earlier chat
+  - life-story.md         # childhood paragraphs
+derived_arcs: []
